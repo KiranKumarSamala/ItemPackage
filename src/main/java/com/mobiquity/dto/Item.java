@@ -12,7 +12,7 @@ import lombok.ToString;
 @Getter
 @Builder
 @ToString
-public class Item implements Comparable<Item> {
+public final class Item implements Comparable<Item> {
 	private int index;
 	private double weight;
 	private int cost;

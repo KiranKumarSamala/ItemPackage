@@ -14,7 +14,7 @@ import lombok.ToString;
 @Getter
 @Builder
 @ToString
-public class ItemPackage {
+public final class ItemPackage {
 
 	private List<Item> items;
 	private int packageWeight;

@@ -12,3 +12,8 @@ buildNumber.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
 .metadata
+.classpath
+.project
+.settings/org.eclipse.jdt.apt.core.prefs
+*.prefs
+.factorypath
