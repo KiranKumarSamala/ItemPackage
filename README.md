@@ -20,7 +20,7 @@ Constraints:
 ##Approach 
 TDD approach is followed 
 
-## Algorith
+## Algorithm
 Backtracking with Memoization
  
 ## Design Pattern
